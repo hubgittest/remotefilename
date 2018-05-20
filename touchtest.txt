@@ -6,8 +6,17 @@ test branch dev add the second line
  test branch dev add the third line
 =======
 
+<<<<<<< HEAD
 creating a new branch is quick and simple
 
 >>>>>>> feature1
 
 jiejue chongtu
+=======
+fenzhiguanlicelve
+
+>>>>>>> dev
+
+jiejuechogntu
+
+
