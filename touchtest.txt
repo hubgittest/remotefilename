@@ -1,5 +1,13 @@
 the first line
 
 test branch dev add the second line
+<<<<<<< HEAD
  
  test branch dev add the third line
+=======
+
+creating a new branch is quick and simple
+
+>>>>>>> feature1
+
+jiejue chongtu
